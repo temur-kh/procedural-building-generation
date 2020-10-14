@@ -41,9 +41,9 @@ click the Gameobject and you will see a bar with changeable settings:
 
 | Generated building from different views |
 | :------------- |
-| <img src="./images/building1.png" width=1000px height=800px/> |
-| <img src="./images/building2.png" width=1000px height=800px/> |
-| <img src="./images/building3.png" width=1000px height=800px/> |
+| <img src="./images/building1.png" width=1000px height=700px/> |
+| <img src="./images/building2.png" width=1000px height=700px/> |
+| <img src="./images/building3.png" width=1000px height=700px/> |
 
 ## References
 
